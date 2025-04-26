@@ -1,0 +1,13 @@
+D:\university\6sem\kpo\lab2\Lab3\bin\Debug\Lab3.exe.config
+D:\university\6sem\kpo\lab2\Lab3\bin\Debug\Lab3.exe
+D:\university\6sem\kpo\lab2\Lab3\bin\Debug\Lab3.pdb
+D:\university\6sem\kpo\lab2\Lab3\bin\Debug\Newtonsoft.Json.dll
+D:\university\6sem\kpo\lab2\Lab3\bin\Debug\Newtonsoft.Json.xml
+D:\university\6sem\kpo\lab2\Lab3\obj\Debug\Lab3.csproj.AssemblyReference.cache
+D:\university\6sem\kpo\lab2\Lab3\obj\Debug\Lab3.Form1.resources
+D:\university\6sem\kpo\lab2\Lab3\obj\Debug\Lab3.Properties.Resources.resources
+D:\university\6sem\kpo\lab2\Lab3\obj\Debug\Lab3.csproj.GenerateResource.cache
+D:\university\6sem\kpo\lab2\Lab3\obj\Debug\Lab3.csproj.CoreCompileInputs.cache
+D:\university\6sem\kpo\lab2\Lab3\obj\Debug\Lab3.csproj.Up2Date
+D:\university\6sem\kpo\lab2\Lab3\obj\Debug\Lab3.exe
+D:\university\6sem\kpo\lab2\Lab3\obj\Debug\Lab3.pdb

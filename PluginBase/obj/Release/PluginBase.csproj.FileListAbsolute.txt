@@ -1,0 +1,12 @@
+D:\university\6sem\kpo\lab2\PluginBase\bin\Release\PluginBase.dll
+D:\university\6sem\kpo\lab2\PluginBase\bin\Release\PluginBase.pdb
+D:\university\6sem\kpo\lab2\PluginBase\obj\Release\PluginBase.csproj.AssemblyReference.cache
+D:\university\6sem\kpo\lab2\PluginBase\obj\Release\PluginBase.csproj.CoreCompileInputs.cache
+D:\university\6sem\kpo\lab2\PluginBase\obj\Release\PluginBase.dll
+D:\university\6sem\kpo\lab2\PluginBase\obj\Release\PluginBase.pdb
+D:\university\6sem\kpo\lab2\Lab_3\PluginBase\bin\Release\PluginBase.dll
+D:\university\6sem\kpo\lab2\Lab_3\PluginBase\bin\Release\PluginBase.pdb
+D:\university\6sem\kpo\lab2\Lab_3\PluginBase\obj\Release\PluginBase.csproj.AssemblyReference.cache
+D:\university\6sem\kpo\lab2\Lab_3\PluginBase\obj\Release\PluginBase.csproj.CoreCompileInputs.cache
+D:\university\6sem\kpo\lab2\Lab_3\PluginBase\obj\Release\PluginBase.dll
+D:\university\6sem\kpo\lab2\Lab_3\PluginBase\obj\Release\PluginBase.pdb

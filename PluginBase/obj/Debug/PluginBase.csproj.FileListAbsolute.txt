@@ -1,0 +1,6 @@
+D:\university\6sem\kpo\lab2\PluginBase\bin\Debug\PluginBase.dll
+D:\university\6sem\kpo\lab2\PluginBase\bin\Debug\PluginBase.pdb
+D:\university\6sem\kpo\lab2\PluginBase\obj\Debug\PluginBase.csproj.AssemblyReference.cache
+D:\university\6sem\kpo\lab2\PluginBase\obj\Debug\PluginBase.csproj.CoreCompileInputs.cache
+D:\university\6sem\kpo\lab2\PluginBase\obj\Debug\PluginBase.dll
+D:\university\6sem\kpo\lab2\PluginBase\obj\Debug\PluginBase.pdb
